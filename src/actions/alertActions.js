@@ -8,7 +8,8 @@ const alertOpen = (payload) => ({
   type: OPEN,
   payload
 });
-
+//。。
 export {
     alertOpen
 }
+
